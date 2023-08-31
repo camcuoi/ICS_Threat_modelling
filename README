@@ -1,1 +1,2 @@
 This project is an initial version of a threat modelling template for ICS environments using the Microsoft Threat Modelling tool. The template is by no means perfect at this point, but it is usable.
+This version is updated by adding some threats based on IEC 62443-3-3 and stencils network devices (router, switch, firewall) and Windows Platform
